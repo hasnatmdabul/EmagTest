@@ -1,6 +1,9 @@
 // EmagTest.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
+
+// merge from second branch
+
 #include <iostream>
 
 //
